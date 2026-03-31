@@ -1,5 +1,9 @@
 # github-job-showcase
 
+🔥 A Codex skill for turning GitHub repositories into interview-ready project showcases.  
+🚀 Focuses on README upgrades, project positioning, resume bullets, and STAR story extraction.  
+⭐ Improves search visibility, recruiter readability, and portfolio conversion.
+
 [![Codex Skill](https://img.shields.io/badge/Codex-Skill-111827?style=flat-square)](./SKILL.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-22c55e?style=flat-square)](./LICENSE)
 [![Public Repo](https://img.shields.io/badge/Repo-Public-2563eb?style=flat-square)](https://github.com/however-yir/codex-skill-github-job-showcase)
